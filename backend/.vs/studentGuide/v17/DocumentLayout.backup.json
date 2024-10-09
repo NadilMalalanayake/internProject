@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|c:\\users\\nadil\\source\\repos\\studentguide\\studentguide\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|solutionrelative:studentguide\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|c:\\users\\nadil\\source\\repos\\studentguide\\studentguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|solutionrelative:studentguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|c:\\users\\nadil\\source\\repos\\studentguide\\studentguide\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|solutionrelative:studentguide\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|c:\\users\\nadil\\source\\repos\\studentguide\\studentguide\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34A9A9E-1AFB-4A49-B659-1F4E77D8F5A0}|studentGuide\\studentGuide.csproj|solutionrelative:studentguide\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "studentGuide\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "studentGuide\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:41:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Program.cs",
+              "RelativeDocumentMoniker": "studentGuide\\Program.cs",
+              "ToolTip": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Program.cs",
+              "RelativeToolTip": "studentGuide\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:01:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Models\\StudentData.cs",
+              "RelativeDocumentMoniker": "studentGuide\\Models\\StudentData.cs",
+              "ToolTip": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Models\\StudentData.cs",
+              "RelativeToolTip": "studentGuide\\Models\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:35:54.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "studentGuide\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nadil\\source\\repos\\studentGuide\\studentGuide\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "studentGuide\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:29:33.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

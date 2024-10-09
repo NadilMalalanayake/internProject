@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/StudentApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "AddStudents",
+    "RelativePath": "api/StudentApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "students",
+        "Type": "studentGuide.Models.StudentData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/StudentApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/StudentApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "students",
+        "Type": "studentGuide.Models.StudentData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/StudentApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "studentGuide.Controllers.StudentController",
+    "Method": "GetStudentByPhone",
+    "RelativePath": "api/StudentApi/{phone}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phone",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
